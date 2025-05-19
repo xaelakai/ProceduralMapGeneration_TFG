@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cd91dbab6e8fe8e4f982220c3d95d2ad, type: 3}
+  m_Name: 0x72DungeonII_Tileset
+  m_EditorClassIdentifier: 
+  backgroundTile: {fileID: 11400000, guid: aca923489d8da244584456cb82bd654d, type: 2}
+  floorTile: {fileID: 11400000, guid: bbde81bb4a5cc594e9e213cfdd23ed45, type: 2}
+  topWallTile: {fileID: 11400000, guid: 2d4b68192e7e10b49ba07f741e2bf752, type: 2}
+  bottomWallTile: {fileID: 11400000, guid: 368da17b37226914681fcdaa2ce67225, type: 2}
+  leftWallTile: {fileID: 11400000, guid: 9e2c127aa9efede46a8d318f03b33235, type: 2}
+  rightWallTile: {fileID: 11400000, guid: 59f4f5ca95567194392b299fb8b803eb, type: 2}
+  wallLeftRightTile: {fileID: 0}
+  wallTopLeftRightCorner: {fileID: 0}
+  wallInnerCornerDownLeft: {fileID: 11400000, guid: a4a2ebdaaa761b946880c22042d5f80b, type: 2}
+  wallInnerCornerDownRight: {fileID: 11400000, guid: de190028f44d15f43b9e3f3462b764eb, type: 2}
+  wallDiagonalCornerUpLeft: {fileID: 0}
+  wallDiagonalCornerUpRight: {fileID: 0}
